@@ -3,7 +3,7 @@
 
 - **Linkedin**: [Daniel Gomes](https://www.linkedin.com/in/daniel-gomes-3a5ba2206/)
 - **Email**: daniel.gomes.lima@ccc.ufcg.edu.br
-- **Portifolio**: https://danielgomes.herokuapp.com/
+- **Portifolio**: [Daniel Gomes](https://danielgomes.herokuapp.com/)
 
 <p> Currently working at @SPLab on the ePol project. </p>
 <p> 🚀 🔥 </p>
