@@ -5,5 +5,5 @@
 - **Email**: daniel.gomes.lima@ccc.ufcg.edu.br
 - **Portifolio**: [Daniel Gomes](https://danielgomes.herokuapp.com/)
 
-<p> Currently working at @SPLab on the ePol project. </p>
+<p> Currently working at @SPLab on the DarkStores project. </p>
 <p> 🚀 🔥 </p>
